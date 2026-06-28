@@ -32,6 +32,24 @@ Do not use it for:
 5. `references/adapters/fallback.md` when sub-agents are unavailable.
 6. `references/examples.md` when you need task templates or examples.
 
+## Current adapters
+
+This skill is currently adapted for these AI tools:
+
+- Codex
+- Claude Code
+- fallback mode when sub-agents are not available
+
+## Adding a new tool
+
+When adding support for another AI tool, keep the shared workflow unchanged and
+add a new adapter file under `references/adapters/`.
+
+1. Copy the structure used by the existing adapter files.
+2. Map the new tool's concrete commands or workflow to the shared PM rules.
+3. Add the new adapter to the read order in this README and `SKILL.md`.
+4. Keep host-specific details out of `references/core-workflow.md`.
+
 ## Repository layout
 
 ```text
