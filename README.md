@@ -1,6 +1,7 @@
 # Juzi Team Lead Skill
 
-Tool-agnostic PM + sub-agent workflow for multi-file implementation work.
+Tool-agnostic PM + sub-agent workflow for multi-file implementation work,
+currently adapted for Codex and Claude Code.
 
 ## What this is
 
