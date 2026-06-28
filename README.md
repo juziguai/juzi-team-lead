@@ -30,8 +30,9 @@ Do not use it for:
 2. `references/core-workflow.md` for the shared PM/worker workflow.
 3. `references/adapters/codex.md` when the host is Codex.
 4. `references/adapters/claude-code.md` when the host is Claude Code.
-5. `references/adapters/fallback.md` when sub-agents are unavailable.
-6. `references/examples.md` when you need task templates or examples.
+5. `references/adapters/antigravity.md` when the host is Antigravity.
+6. `references/adapters/fallback.md` when sub-agents are unavailable.
+7. `references/examples.md` when you need task templates or examples.
 
 ## Current adapters
 
@@ -39,6 +40,7 @@ This skill is currently adapted for these AI tools:
 
 - Codex
 - Claude Code
+- Antigravity
 - fallback mode when sub-agents are not available
 
 ## Adding a new tool
@@ -63,6 +65,7 @@ juzi-team-lead/
     └── adapters/
         ├── codex.md
         ├── claude-code.md
+        ├── antigravity.md
         └── fallback.md
 ```
 

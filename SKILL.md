@@ -13,8 +13,9 @@ metadata:
 1. Read `references/core-workflow.md` for the shared workflow.
 2. Read `references/adapters/codex.md` when the host is Codex.
 3. Read `references/adapters/claude-code.md` when the host is Claude Code.
-4. Read `references/adapters/fallback.md` when sub-agents are unavailable.
-5. Read `references/examples.md` only when you need task templates or examples.
+4. Read `references/adapters/antigravity.md` when the host is Antigravity.
+5. Read `references/adapters/fallback.md` when sub-agents are unavailable.
+6. Read `references/examples.md` only when you need task templates or examples.
 
 ## Rule
 
