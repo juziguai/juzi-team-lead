@@ -1,7 +1,7 @@
 # Juzi Team Lead Skill
 
 Tool-agnostic PM + sub-agent workflow for multi-file implementation work,
-currently adapted for Codex and Claude Code.
+currently adapted for Codex, Claude Code, and Antigravity.
 
 ## What this is
 
